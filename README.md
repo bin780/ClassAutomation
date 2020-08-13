@@ -6,7 +6,7 @@
     https://www.youtube.com/watch?v=4Rx_JRkwAjY
 
 
-2. Download the project from the github
+2. Download the project from the github and unzip
 
 
 3. open command prompt and change the directory to the project forlder
