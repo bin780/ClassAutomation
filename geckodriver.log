@@ -663,3 +663,14 @@ JavaScript warning: https://nebulaas.webex.com/pb/web/40.8.2.200/pb.api.min.v3.j
 JavaScript warning: https://nebulaas.webex.com/pb/web/40.8.2.200/pb.api.min.v3.js?v=3e87165637fffd5851059008cbb9b8b8, line 48: asm.js type error: expecting argument type declaration for 'a' of the form 'arg = arg|0' or 'arg = +arg' or 'arg = fround(arg)'
 1597158008153	Marionette	INFO	Stopped listening on port 45571
 Invalid port. Exiting...
+1597304808960	geckodriver	INFO	Listening on 127.0.0.1:55319
+1597304809965	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile4tzbxI"
+1597304813424	Marionette	INFO	Listening on port 46791
+1597304813478	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://nlujodhpur.webex.com/webappng/scripts/walkme.js, line 3: TypeError: document.querySelector(...) is null
+JavaScript warning: https://nebulaas.webex.com/pb/web/40.8.2.200/pb.api.min.v3.js?v=3e87165637fffd5851059008cbb9b8b8, line 13: asm.js type error: expecting argument type declaration for 'a' of the form 'arg = arg|0' or 'arg = +arg' or 'arg = fround(arg)'
+JavaScript warning: https://nebulaas.webex.com/pb/web/40.8.2.200/pb.api.min.v3.js?v=3e87165637fffd5851059008cbb9b8b8, line 48: asm.js type error: expecting argument type declaration for 'a' of the form 'arg = arg|0' or 'arg = +arg' or 'arg = fround(arg)'
+1597304844166	Marionette	INFO	Stopped listening on port 46791
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+

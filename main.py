@@ -18,7 +18,9 @@ def fun1():
 
 
     global df
+    global f
     df=pd.read_excel('TimeTable//urls.xlsx')
+    print("time table")
     print(df)
 
 @tl.job(interval=timedelta(seconds=10))
@@ -27,7 +29,7 @@ def fun():
     t=0
     index=0
     for i in df['time']:
-        if i>=now.hour:
+        if i==now.hour:
             t=i
             index=df[df['time']==t].index[0]
             break
@@ -36,12 +38,13 @@ def fun():
 
 
         #df.columns=['time','0','1','2','3','4','5']
-        print(now.weekday())
-        print(now.hour)
+        # print(now.weekday())
+        # print(now.hour)
         #print(pd.isnull(df[now.weekday()][0]))
 
 
         if pd.isnull(df[now.weekday()][index])==False:
+            f=1
             print(now.weekday())
             # browser = webdriver.Chrome(executable_path="WebDriver//chromedriver.exe")
             browser = webdriver.Firefox(executable_path="WebDriver//geckodriver")
@@ -52,17 +55,18 @@ def fun():
             email=browser.find_element_by_xpath('/html/body/div[1]/div/div[2]/div[3]/input')
             btn=browser.find_element_by_xpath('//*[@id="guest_next-btn"]')
 
-            uname.send_keys("jisjo")     ### write name here
-            email.send_keys("xgxjg@x.com")   ### write email here
+            uname.send_keys("jisjo")                          ### write name here
+            email.send_keys("xgxjg@x.com")             ### write email here
             btn.click()
 
             # browser.close()
         else:
-            print(df['time'][0],pd.isnull(df[now.weekday()][0]))
+            print("time is now {}".format(now.time()))
 
     except Exception as e:
         print("here")
         print(e)
+        browser.quit()
 
 
 
