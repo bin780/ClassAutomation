@@ -21,32 +21,44 @@ def fun1():
     df=pd.read_excel('TimeTable//urls.xlsx')
     print(df)
 
-@tl.job(interval=timedelta(seconds=1))
+@tl.job(interval=timedelta(seconds=10))
 def fun():
+    now=datetime.now()
+    t=0
+    index=0
+    for i in df['time']:
+        if i>=now.hour:
+            t=i
+            index=df[df['time']==t].index[0]
+            break
 
     try:
-        now = datetime.now()
 
-        df.columns=['time','0','1','2','3','4','5']
+
+        #df.columns=['time','0','1','2','3','4','5']
         print(now.weekday())
-        print(df[str(now.weekday())])
+        print(now.hour)
+        #print(pd.isnull(df[now.weekday()][0]))
 
-        # if df['time'][0]==now.hour and np.isnan(df[now.weekday()][0])==False:
-        #     print(now.weekday())
-        #     browser = webdriver.Firefox(executable_path="WebDriver//geckodriver")
-        #     frame=browser.find_element_by_id('pbui_iframe')
-        #     browser. switch_to.frame(frame)
-        #     uname=browser.find_element_by_css_selector('.style-name-input-19PlX > input:nth-child(1)')
-        #     email=browser.find_element_by_xpath('/html/body/div[1]/div/div[2]/div[3]/input')
-        #     btn=browser.find_element_by_xpath('//*[@id="guest_next-btn"]')
-        #
-        #     uname.send_keys("jisjo")     ### write name here
-        #     email.send_keys("xgxjg@x.com")   ### write email here
-        #     btn.click()
-        #     df.drop(0,axis=1,inplace=True)
-        #     # browser.close()
-        # else:
-        #     print(df['time'][0],np.isnan(df[now.weekday()][0]))
+
+        if pd.isnull(df[now.weekday()][index])==False:
+            print(now.weekday())
+            # browser = webdriver.Chrome(executable_path="WebDriver//chromedriver.exe")
+            browser = webdriver.Firefox(executable_path="WebDriver//geckodriver")
+            browser.get(df[now.weekday()][index])
+            frame=browser.find_element_by_id('pbui_iframe')
+            browser. switch_to.frame(frame)
+            uname=browser.find_element_by_css_selector('.style-name-input-19PlX > input:nth-child(1)')
+            email=browser.find_element_by_xpath('/html/body/div[1]/div/div[2]/div[3]/input')
+            btn=browser.find_element_by_xpath('//*[@id="guest_next-btn"]')
+
+            uname.send_keys("jisjo")     ### write name here
+            email.send_keys("xgxjg@x.com")   ### write email here
+            btn.click()
+
+            # browser.close()
+        else:
+            print(df['time'][0],pd.isnull(df[now.weekday()][0]))
 
     except Exception as e:
         print("here")
