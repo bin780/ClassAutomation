@@ -674,3 +674,599 @@ JavaScript warning: https://nebulaas.webex.com/pb/web/40.8.2.200/pb.api.min.v3.j
 
 ###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
 
+1597391718241	geckodriver	INFO	Listening on 127.0.0.1:2569
+1597391721320	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\HP\\AppData\\Local\\Temp\\rust_mozprofileFFgUig"
+1597391724344	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1597391724344	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1597391724345	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1597391724345	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1597391743132	geckodriver	INFO	Listening on 127.0.0.1:2603
+1597391747386	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\HP\\AppData\\Local\\Temp\\rust_mozprofilewZCmUG"
+1597391748160	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1597391748160	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1597391748160	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1597391748160	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1597391754666	Marionette	INFO	Listening on port 2613
+1597391754713	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://nlujodhpur.webex.com/webappng/scripts/walkme.js, line 3: TypeError: document.querySelector(...) is null
+[Parent 8728, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1563467346/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 16328, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1563467346/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 16328, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1563467346/[Parent 8728, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1563467346/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 10152, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1563467346/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 10152, Chrome_ChildThread] WA[Child 4244, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1563467346/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 4244, Chro[Parent 8728, Gecko_IOThread] WARNING: file z:/task_1563467346/build/src/ipc/chromium/src/base/process_util_win.cc, line 160
+[Parent 8728, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1563467346/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 9068, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1563467346/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 9068, Chrome_Ch1597391894747	Marionette	INFO	Stopped listening on port 2613
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Gtte" "-foreground" "-no-remote" "-profile" "C:\\Users\\HP\\AppData\\Local\\Temp\\rust_mozprofileRF8EH2"
+1597391806222	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1597391806222	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1597391806222	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1597391806222	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1597391810034	Marionette	INFO	Listening on port 2744
+1597391810202	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://nlujodhpur.webex.com/webappng/scripts/walkme.js, line 3: TypeError: document.querySelector(...) is null
+1597391828373	geckodriver	INFO	Listening on 127.0.0.1:2800
+1597391832543	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\HP\\AppData\\Local\\Temp\\rust_mozprofile5EpGvf"
+1597391834157	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1597391834157	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1597391834158	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1597391834158	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1597391838594	Marionette	INFO	Listening on port 2810
+1597391838771	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://nlujodhpur.webex.com/webappng/scripts/walkme.js, line 3: TypeError: document.querySelector(...) is null
+1597391858901	geckodriver	INFO	Listening on 127.0.0.1:2866
+1597391861933	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\HP\\AppData\\Local\\Temp\\rust_mozprofile035RRF"
+1597391863289	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1597391863289	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1597391863290	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1597391863290	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+[Child 12284, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1563467346/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 18420, Gecko_IOThread] WARNING: file z:/task_1563467346/build/src/ipc/chromium/src/base/process_util_win.cc, line 160
+console.error: "Could not write session state file " (new Error("_initWorker called too early! Please read the session file from disk first.", "resource:///modules/sessionstore/SessionFile.jsm", 375)) "_initWorker/<@resource:///modules/sessionstore/SessionFile.jsm:375:15\n_initWorker@resource:///modules/sessionstore/SessionFile.jsm:368:12\n_postToWorker@resource:///modules/sessionstore/SessionFile.jsm:410:16\nwrite@resource:///modules/sessionstore/SessionFile.jsm:448:24\nwrite@resource:///modules/sessionstore/SessionFile.jsm:75:32\n_writeState@resource:///modules/sessionstore/SessionSaver.jsm:360:24\n_saveState@resource:///modules/sessionstore/SessionSaver.jsm:294:17\n_saveStateAsync@resource:///modules/sessionstore/SessionSaver.jsm:344:10\nsaveStateAsyncWhenIdle@resource:///modules/sessionstore/SessionSaver.jsm:191:14\ncallback@resource://gre/modules/Timer.jsm:125:7\n"
+1597391879547	Marionette	INFO	Listening on port 2876
+1597391879798	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://nlujodhpur.webex.com/webappng/scripts/walkme.js, line 3: TypeError: document.querySelector(...) is null
+1597391965883	geckodriver	INFO	Listening on 127.0.0.1:2979
+1597391968909	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\HP\\AppData\\Local\\Temp\\rust_mozprofileSiJCiR"
+1597391970399	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1597391970400	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1597391970400	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1597391970400	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1597391974344	Marionette	INFO	Listening on port 2993
+1597391974643	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://nlujodhpur.webex.com/webappng/scripts/walkme.js, line 3: TypeError: document.querySelector(...) is null
+[Parent 18340, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1563467346/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 3192, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1563467346/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 3192, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1563467346/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 696, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1563467346/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 696, Chrom[Child 5276, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1563467346/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 5276, Chrome_C[Parent 18340, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1563467346/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+1597392052761	Marionette	INFO	Stopped listening on port 2993
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+
+JavaScript error: https://nlujodhpur.webex.com/webappng/scripts/walkme.js, line 3: TypeError: document.querySelector(...) is null
+1597392019205	geckodriver	INFO	Listening on 127.0.0.1:3112
+1597392022234	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\HP\\AppData\\Local\\Temp\\rust_mozprofileNlmnfC"
+1597392023026	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1597392023027	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1597392023027	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1597392023027	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1597392026597	Marionette	INFO	Listening on port 3122
+1597392026955	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://nlujodhpur.webex.com/webappng/scripts/walkme.js, line 3: TypeError: document.querySelector(...) is null
+1597392137753	geckodriver	INFO	Listening on 127.0.0.1:3226
+1597392140830	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\HP\\AppData\\Local\\Temp\\rust_mozprofileUq6Tmp"
+1597392141566	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1597392141567	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1597392141567	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1597392141567	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1597392143868	Marionette	INFO	Listening on port 3236
+1597392143963	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://nlujodhpur.webex.com/webappng/scripts/walkme.js, line 3: TypeError: document.querySelector(...) is null
+[Parent 18896, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1563467346/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 18932, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1563467346/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 18932, Chrome_ChildThread] WA[Parent 18896, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1563467346/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 18896, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1563467346/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 19004, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1563467346/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 19004, Chrome_ChildThread] WARNING: pipe er[Child 17688, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1563467346/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 17688, Chrom[Parent 18896, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1563467346/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 15184, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1563467346/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 15184, Chrome_ChildThr1597392216234	Marionette	INFO	Stopped listening on port 3236
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+RNING: pipe error: 109: file z:/task_1563467346/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 16716, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1563467346/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 16716, Chrome_ChildThread] WARNING:[Parent 18400, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1563467346/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 18400, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1563467346/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 7496, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1563467346/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 7496, Chrome_ChildThread] WARNI[Child 3728, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1563467346/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 3728, Chrome_Child[Parent 18400, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1563467346/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 10796, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1563467346/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 10796, Chro1597392180355	Marionette	INFO	Stopped listening on port 3292
+[G
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1597392183394	geckodriver	INFO	Listening on 127.0.0.1:3341
+1597392186428	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\HP\\AppData\\Local\\Temp\\rust_mozprofilezP7hUG"
+1597392186886	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1597392186887	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1597392186887	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1597392186887	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1597392189530	Marionette	INFO	Listening on port 3351
+1597392189545	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://nlujodhpur.webex.com/webappng/scripts/walkme.js, line 3: TypeError: document.querySelector(...) is null
+1597394027912	geckodriver	INFO	Listening on 127.0.0.1:4525
+1597394030984	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\HP\\AppData\\Local\\Temp\\rust_mozprofileYmTvVn"
+1597394031358	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1597394031358	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1597394031359	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1597394031359	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1597394033152	Marionette	INFO	Listening on port 4534
+1597394033595	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://nlujodhpur.webex.com/webappng/scripts/walkme.js, line 3: TypeError: document.querySelector(...) is null
+1597394048792	geckodriver	INFO	Listening on 127.0.0.1:4586
+1597394051815	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\HP\\AppData\\Local\\Temp\\rust_mozprofilezmj58Q"
+1597394052275	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1597394052275	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1597394052275	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1597394052275	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1597394054145	Marionette	INFO	Listening on port 4595
+1597394054427	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://nlujodhpur.webex.com/webappng/scripts/walkme.js, line 3: TypeError: document.querySelector(...) is null
+1597394076309	geckodriver	INFO	Listening on 127.0.0.1:4646
+1597394079360	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\HP\\AppData\\Local\\Temp\\rust_mozprofileBn23QE"
+1597394079979	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1597394079980	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1597394079980	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1597394079980	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1597394081596	Marionette	INFO	Listening on port 4656
+1597394081969	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://nlujodhpur.webex.com/webappng/scripts/walkme.js, line 3: TypeError: document.querySelector(...) is null
+JavaScript warning: https://nebulaas.webex.com/pb/web/40.8.2.200/dist/simpleapi.js?v=65d7ace7d4d6e67c801e7574ee0e7805, line 5: Error: WebGL warning: <SetDimensions>: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(0000024F8361F000)::ForceLoseContext
+JavaScript warning: https://nebulaas.webex.com/pb/web/40.8.2.200/dist/simpleapi.js?v=65d7ace7d4d6e67c801e7574ee0e7805, line 5: Error: WebGL warning: <SetDimensions>: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(0000024FFFC86800)::ForceLoseContext
+JavaScript warning: https://nebulaas.webex.com/pb/web/40.8.2.200/dist/simpleapi.js?v=65d7ace7d4d6e67c801e7574ee0e7805, line 5: Error: WebGL warning: <SetDimensions>: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(0000024F832D2000)::ForceLoseContext
+JavaScript warning: https://nebulaas.webex.com/pb/web/40.8.2.200/dist/simpleapi.js?v=65d7ace7d4d6e67c801e7574ee0e7805, line 5: Error: WebGL warning: <SetDimensions>: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(0000024FFFC85800)::ForceLoseContext
+ for this session
+JavaScript error: https://nlujodhpur.webex.com/webappng/scripts/walkme.js, line 3: TypeError: document.querySelector(...) is null
+1597395636384	geckodriver	INFO	Listening on 127.0.0.1:5948
+1597395639454	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\HP\\AppData\\Local\\Temp\\rust_mozprofileJp8ge4"
+1597395640868	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1597395640869	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1597395640869	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1597395640869	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1597395644001	Marionette	INFO	Listening on port 5957
+1597395644178	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://nlujodhpur.webex.com/webappng/scripts/walkme.js, line 3: TypeError: document.querySelector(...) is null
+1597395691874	geckodriver	INFO	Listening on 127.0.0.1:6026
+1597395694968	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\HP\\AppData\\Local\\Temp\\rust_mozprofile1BOchB"
+1597395696260	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1597395696261	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1597395696261	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1597395696261	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1597395700583	Marionette	INFO	Listening on port 6036
+1597395700703	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://nlujodhpur.webex.com/webappng/scripts/walkme.js, line 3: TypeError: document.querySelector(...) is null
+1597395824768	geckodriver	INFO	Listening on 127.0.0.1:6153
+1597395827855	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\HP\\AppData\\Local\\Temp\\rust_mozprofileo9rpz0"
+1597395830259	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1597395830260	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1597395830260	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1597395830260	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1597395833727	Marionette	INFO	Listening on port 6163
+1597395834103	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://nlujodhpur.webex.com/webappng/scripts/walkme.js, line 3: TypeError: document.querySelector(...) is null
+JavaScript warning: https://nebulaas.webex.com/pb/web/40.8.2.200/pb.api.min.v3.js?v=3e87165637fffd5851059008cbb9b8b8, line 13: TypeError: asm.js type error: expecting argument type declaration for 'a' of the form 'arg = arg|0' or 'arg = +arg' or 'arg = fround(arg)'
+JavaScript warning: https://nebulaas.webex.com/pb/web/40.8.2.200/pb.api.min.v3.js?v=3e87165637fffd5851059008cbb9b8b8, line 48: TypeError: asm.js type error: expecting argument type declaration for 'a' of the form 'arg = arg|0' or 'arg = +arg' or 'arg = fround(arg)'
+[Parent 13560, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1563467346/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+ox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\HP\\AppData\\Local\\Temp\\rust_mozprofileBvxaKw"
+1597395893958	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1597395893958	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1597395893959	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1597395893959	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1597395898149	Marionette	INFO	Listening on port 6258
+1597395898405	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://nlujodhpur.webex.com/webappng/scripts/walkme.js, line 3: TypeError: document.querySelector(...) is null
+JavaScript warning: https://nebulaas.webex.com/pb/web/40.8.2.200/pb.api.min.v3.js?v=3e87165637fffd5851059008cbb9b8b8, line 13: TypeError: asm.js type error: expecting argument type declaration for 'a' of the form 'arg = arg|0' or 'arg = +arg' or 'arg = fround(arg)'
+JavaScript warning: https://nebulaas.webex.com/pb/web/40.8.2.200/pb.api.min.v3.js?v=3e87165637fffd5851059008cbb9b8b8, line 48: TypeError: asm.js type error: expecting argument type declaration for 'a' of the form 'arg = arg|0' or 'arg = +arg' or 'arg = fround(arg)'
+[Parent 19448, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1563467346/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+ox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\HP\\AppData\\Local\\Temp\\rust_mozprofilezDNBb2"
+1597395959347	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1597395959348	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1597395959349	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1597395959349	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1597395966710	Marionette	INFO	Listening on port 6354
+1597395967179	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://nlujodhpur.webex.com/webappng/scripts/walkme.js, line 3: TypeError: document.querySelector(...) is null
+JavaScript warning: https://nebulaas.webex.com/pb/web/40.8.2.200/pb.api.min.v3.js?v=3e87165637fffd5851059008cbb9b8b8, line 13: TypeError: asm.js type error: expecting argument type declaration for 'a' of the form 'arg = arg|0' or 'arg = +arg' or 'arg = fround(arg)'
+JavaScript warning: https://nebulaas.webex.com/pb/web/40.8.2.200/pb.api.min.v3.js?v=3e87165637fffd5851059008cbb9b8b8, line 48: TypeError: asm.js type error: expecting argument type declaration for 'a' of the form 'arg = arg|0' or 'arg = +arg' or 'arg = fround(arg)'
+1597397635145	geckodriver	INFO	Listening on 127.0.0.1:7227
+1597397638270	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\HP\\AppData\\Local\\Temp\\rust_mozprofilehMlcSZ"
+1597397642745	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1597397642745	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1597397642746	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1597397642746	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1597397646072	Marionette	INFO	Listening on port 7236
+1597397646097	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://nlujodhpur.webex.com/webappng/scripts/walkme.js, line 3: TypeError: document.querySelector(...) is null
+JavaScript warning: https://nebulaas.webex.com/pb/web/40.8.2.200/pb.api.min.v3.js?v=3e87165637fffd5851059008cbb9b8b8, line 13: TypeError: asm.js type error: expecting argument type declaration for 'a' of the form 'arg = arg|0' or 'arg = +arg' or 'arg = fround(arg)'
+JavaScript warning: https://nebulaas.webex.com/pb/web/40.8.2.200/pb.api.min.v3.js?v=3e87165637fffd5851059008cbb9b8b8, line 48: TypeError: asm.js type error: expecting argument type declaration for 'a' of the form 'arg = arg|0' or 'arg = +arg' or 'arg = fround(arg)'
+1597398063693	geckodriver	INFO	Listening on 127.0.0.1:7487
+1597398066777	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\HP\\AppData\\Local\\Temp\\rust_mozprofilevto0Q6"
+1597398068563	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1597398068564	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1597398068564	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1597398068564	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1597398071621	Marionette	INFO	Listening on port 7497
+1597398072003	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://nlujodhpur.webex.com/webappng/scripts/walkme.js, line 3: TypeError: document.querySelector(...) is null
+JavaScript warning: https://nebulaas.webex.com/pb/web/40.8.2.200/pb.api.min.v3.js?v=3e87165637fffd5851059008cbb9b8b8, line 13: TypeError: asm.js type error: expecting argument type declaration for 'a' of the form 'arg = arg|0' or 'arg = +arg' or 'arg = fround(arg)'
+JavaScript warning: https://nebulaas.webex.com/pb/web/40.8.2.200/pb.api.min.v3.js?v=3e87165637fffd5851059008cbb9b8b8, line 48: TypeError: asm.js type error: expecting argument type declaration for 'a' of the form 'arg = arg|0' or 'arg = +arg' or 'arg = fround(arg)'
+1597398117343	geckodriver	INFO	Listening on 127.0.0.1:7579
+1597398120417	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\HP\\AppData\\Local\\Temp\\rust_mozprofilebsG5BM"
+1597398121780	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1597398121781	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1597398121782	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1597398121782	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1597398244406	geckodriver	INFO	Listening on 127.0.0.1:7650
+1597398247527	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\HP\\AppData\\Local\\Temp\\rust_mozprofileTtBc9q"
+1597398248314	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1597398248315	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1597398248315	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1597398248315	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1597398251530	Marionette	INFO	Listening on port 7660
+1597398251640	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://nlujodhpur.webex.com/webappng/scripts/walkme.js, line 3: TypeError: document.querySelector(...) is null
+JavaScript warning: https://nebulaas.webex.com/pb/web/40.8.2.200/pb.api.min.v3.js?v=3e87165637fffd5851059008cbb9b8b8, line 13: TypeError: asm.js type error: expecting argument type declaration for 'a' of the form 'arg = arg|0' or 'arg = +arg' or 'arg = fround(arg)'
+JavaScript warning: https://nebulaas.webex.com/pb/web/40.8.2.200/pb.api.min.v3.js?v=3e87165637fffd5851059008cbb9b8b8, line 48: TypeError: asm.js type error: expecting argument type declaration for 'a' of the form 'arg = arg|0' or 'arg = +arg' or 'arg = fround(arg)'
+1597398396787	geckodriver	INFO	Listening on 127.0.0.1:7779
+1597398399866	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\HP\\AppData\\Local\\Temp\\rust_mozprofileYkYIge"
+1597398404120	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1597398404121	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1597398404121	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1597398404121	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1597398407129	Marionette	INFO	Listening on port 7788
+1597398407205	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://nlujodhpur.webex.com/webappng/scripts/walkme.js, line 3: TypeError: document.querySelector(...) is null
+JavaScript warning: https://nebulaas.webex.com/pb/web/40.8.2.200/pb.api.min.v3.js?v=3e87165637fffd5851059008cbb9b8b8, line 13: TypeError: asm.js type error: expecting argument type declaration for 'a' of the form 'arg = arg|0' or 'arg = +arg' or 'arg = fround(arg)'
+JavaScript warning: https://nebulaas.webex.com/pb/web/40.8.2.200/pb.api.min.v3.js?v=3e87165637fffd5851059008cbb9b8b8, line 48: TypeError: asm.js type error: expecting argument type declaration for 'a' of the form 'arg = arg|0' or 'arg = +arg' or 'arg = fround(arg)'
+[Parent 16040, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1563467346/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+1597398494228	geckodriver	INFO	Listening on 127.0.0.1:7885
+1597398497294	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\HP\\AppData\\Local\\Temp\\rust_mozprofilev6JSML"
+1597398498507	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1597398498507	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1597398498508	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1597398498508	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1597398502782	Marionette	INFO	Listening on port 7895
+1597398503029	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://nlujodhpur.webex.com/webappng/scripts/walkme.js, line 3: TypeError: document.querySelector(...) is null
+JavaScript warning: https://nebulaas.webex.com/pb/web/40.8.2.200/pb.api.min.v3.js?v=3e87165637fffd5851059008cbb9b8b8, line 13: TypeError: asm.js type error: expecting argument type declaration for 'a' of the form 'arg = arg|0' or 'arg = +arg' or 'arg = fround(arg)'
+JavaScript warning: https://nebulaas.webex.com/pb/web/40.8.2.200/pb.api.min.v3.js?v=3e87165637fffd5851059008cbb9b8b8, line 48: TypeError: asm.js type error: expecting argument type declaration for 'a' of the form 'arg = arg|0' or 'arg = +arg' or 'arg = fround(arg)'
+1597398622028	geckodriver	INFO	Listening on 127.0.0.1:8009
+1597398625129	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\HP\\AppData\\Local\\Temp\\rust_mozprofile5urXbh"
+1597398625808	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1597398625808	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1597398625808	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1597398625808	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1597398628656	Marionette	INFO	Listening on port 8018
+1597398628749	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://nlujodhpur.webex.com/webappng/scripts/walkme.js, line 3: TypeError: document.querySelector(...) is null
+JavaScript warning: https://nebulaas.webex.com/pb/web/40.8.2.200/pb.api.min.v3.js?v=3e87165637fffd5851059008cbb9b8b8, line 13: TypeError: asm.js type error: expecting argument type declaration for 'a' of the form 'arg = arg|0' or 'arg = +arg' or 'arg = fround(arg)'
+JavaScript warning: https://nebulaas.webex.com/pb/web/40.8.2.200/pb.api.min.v3.js?v=3e87165637fffd5851059008cbb9b8b8, line 48: TypeError: asm.js type error: expecting argument type declaration for 'a' of the form 'arg = arg|0' or 'arg = +arg' or 'arg = fround(arg)'
+1597398976333	geckodriver	INFO	Listening on 127.0.0.1:8235
+1597398979361	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\HP\\AppData\\Local\\Temp\\rust_mozprofile0XabK3"
+1597398980127	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1597398980128	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1597398980128	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1597398980128	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1597398983230	Marionette	INFO	Listening on port 8245
+1597398983489	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://nlujodhpur.webex.com/webappng/scripts/walkme.js, line 3: TypeError: document.querySelector(...) is null
+JavaScript warning: https://nebulaas.webex.com/pb/web/40.8.2.200/pb.api.min.v3.js?v=3e87165637fffd5851059008cbb9b8b8, line 13: TypeError: asm.js type error: expecting argument type declaration for 'a' of the form 'arg = arg|0' or 'arg = +arg' or 'arg = fround(arg)'
+JavaScript warning: https://nebulaas.webex.com/pb/web/40.8.2.200/pb.api.min.v3.js?v=3e87165637fffd5851059008cbb9b8b8, line 48: TypeError: asm.js type error: expecting argument type declaration for 'a' of the form 'arg = arg|0' or 'arg = +arg' or 'arg = fround(arg)'
+[Parent 15240, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1563467346/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+ox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\HP\\AppData\\Local\\Temp\\rust_mozprofileN5Tfc2"
+1597399053903	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1597399053904	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1597399053904	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1597399053904	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1597399058438	Marionette	INFO	Listening on port 8346
+1597399058517	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://nlujodhpur.webex.com/webappng/scripts/walkme.js, line 3: TypeError: document.querySelector(...) is null
+JavaScript warning: https://nebulaas.webex.com/pb/web/40.8.2.200/pb.api.min.v3.js?v=3e87165637fffd5851059008cbb9b8b8, line 13: TypeError: asm.js type error: expecting argument type declaration for 'a' of the form 'arg = arg|0' or 'arg = +arg' or 'arg = fround(arg)'
+JavaScript warning: https://nebulaas.webex.com/pb/web/40.8.2.200/pb.api.min.v3.js?v=3e87165637fffd5851059008cbb9b8b8, line 48: TypeError: asm.js type error: expecting argument type declaration for 'a' of the form 'arg = arg|0' or 'arg = +arg' or 'arg = fround(arg)'
+[Parent 408, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1563467346/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 16864, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1563467346/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 16864, Chrome_ChildT[Parent 408, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1563467346/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 408, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1563467346/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 10904, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1563467346/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 10904, Chrome_Chi[Parent 408, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1563467346/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 10748, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1563467346/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 1071597399093773	Marionette	INFO	Stopped listening on port 8346
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 18220, C
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1597399171782	geckodriver	INFO	Listening on 127.0.0.1:8458
+1597399174848	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\HP\\AppData\\Local\\Temp\\rust_mozprofilePk46qI"
+1597399178895	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1597399178895	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1597399178895	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1597399178896	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1597399182185	Marionette	INFO	Listening on port 8468
+1597399182682	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://nlujodhpur.webex.com/webappng/scripts/walkme.js, line 3: TypeError: document.querySelector(...) is null
+JavaScript warning: https://nebulaas.webex.com/pb/web/40.8.2.200/pb.api.min.v3.js?v=3e87165637fffd5851059008cbb9b8b8, line 13: TypeError: asm.js type error: expecting argument type declaration for 'a' of the form 'arg = arg|0' or 'arg = +arg' or 'arg = fround(arg)'
+JavaScript warning: https://nebulaas.webex.com/pb/web/40.8.2.200/pb.api.min.v3.js?v=3e87165637fffd5851059008cbb9b8b8, line 48: TypeError: asm.js type error: expecting argument type declaration for 'a' of the form 'arg = arg|0' or 'arg = +arg' or 'arg = fround(arg)'
+[Parent 15580, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1563467346/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+ox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\HP\\AppData\\Local\\Temp\\rust_mozprofileXAK7rT"
+1597399254045	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1597399254046	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1597399254046	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1597399254046	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1597399257758	Marionette	INFO	Listening on port 8567
+1597399258016	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://nlujodhpur.webex.com/webappng/scripts/walkme.js, line 3: TypeError: document.querySelector(...) is null
+JavaScript warning: https://nebulaas.webex.com/pb/web/40.8.2.200/pb.api.min.v3.js?v=3e87165637fffd5851059008cbb9b8b8, line 13: TypeError: asm.js type error: expecting argument type declaration for 'a' of the form 'arg = arg|0' or 'arg = +arg' or 'arg = fround(arg)'
+JavaScript warning: https://nebulaas.webex.com/pb/web/40.8.2.200/pb.api.min.v3.js?v=3e87165637fffd5851059008cbb9b8b8, line 48: TypeError: asm.js type error: expecting argument type declaration for 'a' of the form 'arg = arg|0' or 'arg = +arg' or 'arg = fround(arg)'
+1597399378839	geckodriver	INFO	Listening on 127.0.0.1:8688
+1597399381909	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\HP\\AppData\\Local\\Temp\\rust_mozprofilekCh1s9"
+1597399385433	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1597399385433	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1597399385433	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1597399385433	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1597399388488	Marionette	INFO	Listening on port 8698
+1597399388732	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://nlujodhpur.webex.com/webappng/scripts/walkme.js, line 3: TypeError: document.querySelector(...) is null
+JavaScript warning: https://nebulaas.webex.com/pb/web/40.8.2.200/pb.api.min.v3.js?v=3e87165637fffd5851059008cbb9b8b8, line 13: TypeError: asm.js type error: expecting argument type declaration for 'a' of the form 'arg = arg|0' or 'arg = +arg' or 'arg = fround(arg)'
+JavaScript warning: https://nebulaas.webex.com/pb/web/40.8.2.200/pb.api.min.v3.js?v=3e87165637fffd5851059008cbb9b8b8, line 48: TypeError: asm.js type error: expecting argument type declaration for 'a' of the form 'arg = arg|0' or 'arg = +arg' or 'arg = fround(arg)'
+[Parent 15956, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1563467346/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 18288, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1563467346/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 18288, C[Parent 15956, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1563467346/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 16568, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1563467346/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 15956, Gecko_IOThread] WARNING: file z:/task_1563467346/build/src/ipc/chromium/src/base/process_util_win.cc, line 160
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTr[Child 9364, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1563467346/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 936IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Parent 9180, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1563467346/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 3080, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1563467346/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 3080, Chrome_Child[Parent 9180, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1563467346/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 5996, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1563467346/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 5996,1597400438567	Marionette	INFO	Stopped listening on port 8799
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 8016
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ng command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\HP\\AppData\\Local\\Temp\\rust_mozprofilewMA5ND"
+1597399978138	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1597399978139	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1597399978139	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1597399978139	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1597399983126	Marionette	INFO	Listening on port 9249
+1597399983255	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://nlujodhpur.webex.com/webappng/scripts/walkme.js, line 3: TypeError: document.querySelector(...) is null
+JavaScript warning: https://nebulaas.webex.com/pb/web/40.8.2.200/pb.api.min.v3.js?v=3e87165637fffd5851059008cbb9b8b8, line 13: TypeError: asm.js type error: expecting argument type declaration for 'a' of the form 'arg = arg|0' or 'arg = +arg' or 'arg = fround(arg)'
+JavaScript warning: https://nebulaas.webex.com/pb/web/40.8.2.200/pb.api.min.v3.js?v=3e87165637fffd5851059008cbb9b8b8, line 48: TypeError: asm.js type error: expecting argument type declaration for 'a' of the form 'arg = arg|0' or 'arg = +arg' or 'arg = fround(arg)'
+[Parent 3808, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1563467346/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+fox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\HP\\AppData\\Local\\Temp\\rust_mozprofileYOxEZ9"
+1597400042637	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1597400042638	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1597400042638	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1597400042638	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1597400048533	Marionette	INFO	Listening on port 9344
+1597400048849	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://nlujodhpur.webex.com/webappng/scripts/walkme.js, line 3: TypeError: document.querySelector(...) is null
+JavaScript warning: https://nebulaas.webex.com/pb/web/40.8.2.200/pb.api.min.v3.js?v=3e87165637fffd5851059008cbb9b8b8, line 13: TypeError: asm.js type error: expecting argument type declaration for 'a' of the form 'arg = arg|0' or 'arg = +arg' or 'arg = fround(arg)'
+JavaScript warning: https://nebulaas.webex.com/pb/web/40.8.2.200/pb.api.min.v3.js?v=3e87165637fffd5851059008cbb9b8b8, line 48: TypeError: asm.js type error: expecting argument type declaration for 'a' of the form 'arg = arg|0' or 'arg = +arg' or 'arg = fround(arg)'
+1597400150670	geckodriver	INFO	Listening on 127.0.0.1:9452
+1597400153821	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\HP\\AppData\\Local\\Temp\\rust_mozprofile95qS6Y"
+1597400158738	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1597400158739	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1597400158739	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1597400158740	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1597400164781	Marionette	INFO	Listening on port 9463
+1597400164900	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://nlujodhpur.webex.com/webappng/scripts/walkme.js, line 3: TypeError: document.querySelector(...) is null
+JavaScript warning: https://nebulaas.webex.com/pb/web/40.8.2.200/pb.api.min.v3.js?v=3e87165637fffd5851059008cbb9b8b8, line 13: TypeError: asm.js type error: expecting argument type declaration for 'a' of the form 'arg = arg|0' or 'arg = +arg' or 'arg = fround(arg)'
+JavaScript warning: https://nebulaas.webex.com/pb/web/40.8.2.200/pb.api.min.v3.js?v=3e87165637fffd5851059008cbb9b8b8, line 48: TypeError: asm.js type error: expecting argument type declaration for 'a' of the form 'arg = arg|0' or 'arg = +arg' or 'arg = fround(arg)'
+1597400295576	geckodriver	INFO	Listening on 127.0.0.1:9587
+1597400298665	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\HP\\AppData\\Local\\Temp\\rust_mozprofilelzYtDn"
+1597400300334	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1597400300334	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1597400300335	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1597400300335	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1597400305521	Marionette	INFO	Listening on port 9599
+1597400305555	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://nlujodhpur.webex.com/webappng/scripts/walkme.js, line 3: TypeError: document.querySelector(...) is null
+JavaScript warning: https://nebulaas.webex.com/pb/web/40.8.2.200/pb.api.min.v3.js?v=3e87165637fffd5851059008cbb9b8b8, line 13: TypeError: asm.js type error: expecting argument type declaration for 'a' of the form 'arg = arg|0' or 'arg = +arg' or 'arg = fround(arg)'
+JavaScript warning: https://nebulaas.webex.com/pb/web/40.8.2.200/pb.api.min.v3.js?v=3e87165637fffd5851059008cbb9b8b8, line 48: TypeError: asm.js type error: expecting argument type declaration for 'a' of the form 'arg = arg|0' or 'arg = +arg' or 'arg = fround(arg)'
+1597400359836	geckodriver	INFO	Listening on 127.0.0.1:9681
+1597400362920	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\HP\\AppData\\Local\\Temp\\rust_mozprofileUQk6gC"
+1597400366525	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1597400366526	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1597400366527	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1597400366527	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1597400372450	Marionette	INFO	Listening on port 9690
+1597400372895	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://nlujodhpur.webex.com/webappng/scripts/walkme.js, line 3: TypeError: document.querySelector(...) is null
+JavaScript warning: https://nebulaas.webex.com/pb/web/40.8.2.200/pb.api.min.v3.js?v=3e87165637fffd5851059008cbb9b8b8, line 13: TypeError: asm.js type error: expecting argument type declaration for 'a' of the form 'arg = arg|0' or 'arg = +arg' or 'arg = fround(arg)'
+JavaScript warning: https://nebulaas.webex.com/pb/web/40.8.2.200/pb.api.min.v3.js?v=3e87165637fffd5851059008cbb9b8b8, line 48: TypeError: asm.js type error: expecting argument type declaration for 'a' of the form 'arg = arg|0' or 'arg = +arg' or 'arg = fround(arg)'
+1597400574988	geckodriver	INFO	Listening on 127.0.0.1:9847
+1597400578078	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\HP\\AppData\\Local\\Temp\\rust_mozprofilepMFD8I"
+1597400578917	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1597400578917	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1597400578917	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1597400578917	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1597400582352	Marionette	INFO	Listening on port 9856
+1597400582819	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://nlujodhpur.webex.com/webappng/scripts/walkme.js, line 3: TypeError: document.querySelector(...) is null
+JavaScript warning: https://nebulaas.webex.com/pb/web/40.8.2.200/pb.api.min.v3.js?v=3e87165637fffd5851059008cbb9b8b8, line 13: TypeError: asm.js type error: expecting argument type declaration for 'a' of the form 'arg = arg|0' or 'arg = +arg' or 'arg = fround(arg)'
+JavaScript warning: https://nebulaas.webex.com/pb/web/40.8.2.200/pb.api.min.v3.js?v=3e87165637fffd5851059008cbb9b8b8, line 48: TypeError: asm.js type error: expecting argument type declaration for 'a' of the form 'arg = arg|0' or 'arg = +arg' or 'arg = fround(arg)'
+1597400634591	geckodriver	INFO	Listening on 127.0.0.1:9942
+1597400705461	geckodriver	INFO	Listening on 127.0.0.1:9982
+1597400708545	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\HP\\AppData\\Local\\Temp\\rust_mozprofileXDkLKI"
+1597400709595	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1597400709596	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1597400709596	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1597400709596	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1597400712696	Marionette	INFO	Listening on port 9992
+1597400712783	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://nlujodhpur.webex.com/webappng/scripts/walkme.js, line 3: TypeError: document.querySelector(...) is null
+1597400730829	Marionette	INFO	Stopped listening on port 9992
+[Child 452, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1563467346/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 452, Ch[Child 15608, Chrome_ChildThread] WARNING: pipe error: 232: file z:/task_1563467346/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 502
+[Child 15608, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1563467346/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, lin[Parent 15932, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1563467346/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 16244, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1563467346/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 16244,
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 1
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1597400768338	geckodriver	INFO	Listening on 127.0.0.1:10071
+1597400771394	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\HP\\AppData\\Local\\Temp\\rust_mozprofileAvz1Pa"
+1597400772296	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1597400772296	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1597400772296	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1597400772296	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1597400775097	Marionette	INFO	Listening on port 10080
+1597400775530	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://nlujodhpur.webex.com/webappng/scripts/walkme.js, line 3: TypeError: document.querySelector(...) is null
+1597400794224	Marionette	INFO	Stopped listening on port 10080
+[Parent 9900, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1563467346/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 7852, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1563467346/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 7852, Chrome_ChildT[Parent 9900, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1563467346/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Child 15
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+780, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1563467346/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 15780, Chrome_ChildThread] WARNING: pipe er[Parent 9900, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1563467346/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 18364, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1563467346/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 183[GPU 9208, 
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1597400973118	geckodriver	INFO	Listening on 127.0.0.1:10232
+1597400976193	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\HP\\AppData\\Local\\Temp\\rust_mozprofile5XEvai"
+1597400977425	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1597400977425	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1597400977425	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1597400977425	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1597400980548	Marionette	INFO	Listening on port 10241
+1597400980611	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://nlujodhpur.webex.com/webappng/scripts/walkme.js, line 3: TypeError: document.querySelector(...) is null

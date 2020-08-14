@@ -6,6 +6,13 @@ from datetime import timedelta
 from datetime import datetime
 
 from selenium import webdriver
+import time
+
+from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.support import expected_conditions as EC
+from selenium.webdriver.common.by import  By
+from pynput.keyboard import  Key,Controller
+
 
 from selenium.webdriver.common.keys import Keys
 
@@ -18,12 +25,13 @@ def fun1():
 
 
     global df
-    global f
+    global key
+    key = Controller()
     df=pd.read_excel('TimeTable//urls.xlsx')
     print("time table")
     print(df)
 
-@tl.job(interval=timedelta(seconds=10))
+@tl.job(interval=timedelta(seconds=35))
 def fun():
     now=datetime.now()
     t=0
@@ -43,15 +51,26 @@ def fun():
         #print(pd.isnull(df[now.weekday()][0]))
 
 
+
         if pd.isnull(df[now.weekday()][index])==False:
             f=1
             print(now.weekday())
-            # browser = webdriver.Chrome(executable_path="WebDriver//chromedriver.exe")
-            browser = webdriver.Firefox(executable_path="WebDriver//geckodriver")
+            #browser = webdriver.Chrome(executable_path="WebDriver//chromedriver.exe")
+            browser = webdriver.Firefox(executable_path="WebDriver//geckodriver.exe")
+            #fp=webdriver.FirefoxProfile()
+            #fp.set_preference("browser.download.manager.showWhenStarting",False)
             browser.get(df[now.weekday()][index])
-            frame=browser.find_element_by_id('pbui_iframe')
+            browser.implicitly_wait(20)
+
+
+
+            ele=browser.find_element_by_id('push_download_join_by_browser')
+            ele.click()
+            browser.implicitly_wait(30)
+            frame=browser.find_element_by_id("pbui_iframe")
             browser. switch_to.frame(frame)
-            uname=browser.find_element_by_css_selector('.style-name-input-19PlX > input:nth-child(1)')
+            browser.implicitly_wait(30)
+            uname=browser.find_element_by_xpath('/html/body/div[1]/div/div[2]/div[2]/input')
             email=browser.find_element_by_xpath('/html/body/div[1]/div/div[2]/div[3]/input')
             btn=browser.find_element_by_xpath('//*[@id="guest_next-btn"]')
 
@@ -59,17 +78,24 @@ def fun():
             email.send_keys("xgxjg@x.com")             ### write email here
             btn.click()
 
-            # browser.close()
+            browser.implicitly_wait(10)
+            key.press(Key.enter)
+            key.release(Key.enter)
+
         else:
             print("time is now {}".format(now.time()))
 
     except Exception as e:
+
         print("here")
         print(e)
-        browser.quit()
+
 
 
 
 if __name__ == '__main__':
-    fun1()
-    tl.start(block=True)
+    try:
+        fun1()
+        tl.start(block=True)
+    except Exception as e:
+        print(e)
