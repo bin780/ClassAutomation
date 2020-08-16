@@ -8,13 +8,17 @@ from datetime import datetime
 from selenium import webdriver
 import time
 
-from selenium.webdriver.support.ui import WebDriverWait
-from selenium.webdriver.support import expected_conditions as EC
-from selenium.webdriver.common.by import  By
+from selenium.webdriver.firefox.options import Options
 from pynput.keyboard import  Key,Controller
 
 
 from selenium.webdriver.common.keys import Keys
+
+
+
+from selenium.webdriver.common.by import By
+from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.support import expected_conditions as EC
 
 tl = Timeloop()
 
@@ -28,6 +32,7 @@ def fun1():
     global key
     key = Controller()
     df=pd.read_excel('TimeTable//urls.xlsx')
+    df['finished']=np.zeros(df.shape[0],dtype=np.int32)
     print("time table")
     print(df)
 
@@ -52,11 +57,15 @@ def fun():
 
 
 
-        if pd.isnull(df[now.weekday()][index])==False:
+        if pd.isnull(df[now.weekday()][index])==False and df['finished'][index]==0:
             f=1
             print(now.weekday())
             #browser = webdriver.Chrome(executable_path="WebDriver//chromedriver.exe")
             browser = webdriver.Firefox(executable_path="WebDriver//geckodriver.exe")
+            options=Options()
+            options.add_argument("use-fake-ui-for-media-stream")
+
+
             #fp=webdriver.FirefoxProfile()
             #fp.set_preference("browser.download.manager.showWhenStarting",False)
             browser.get(df[now.weekday()][index])
@@ -81,6 +90,32 @@ def fun():
             browser.implicitly_wait(10)
             key.press(Key.enter)
             key.release(Key.enter)
+            df.at[index,'finished']=1
+            #print(df)
+            #browser.implicitly_wait(10)
+
+            browser.implicitly_wait(10)
+
+
+
+
+            # frame1 = browser.find_element_by_id("pbui_iframe")
+            # browser.switch_to.frame(frame1)
+
+
+
+
+
+
+
+
+
+
+
+            btn2=browser.find_element_by_id('interstitial_join_btn')
+            btn2.click()
+
+
 
         else:
             print("time is now {}".format(now.time()))
